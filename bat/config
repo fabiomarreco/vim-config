@@ -1,0 +1,5 @@
+-m csproj:xml
+-m fsproj:xml
+-m rc:vim
+-m *.conf:HOCON
+-m *.hocon:HOCON
